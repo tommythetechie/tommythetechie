@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/tommythetechie/tommythetechie/main/header.png" alt="Hi Im Tommy">
+
 ### Hi there 👋 I'm Tommy - A Front-End Web Developer and UX/UI Designer
 
 <!--
