@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <li>https://twitter.com/tommythetechie</li>
   <li>https://www.linkedin.com/in/tommythetechie/</li>
   <li>https://www.instagram.com/tommythetechie/</li>
-  <li>https://spacehey.com/tommythetechie</li>
+  
 </ul>
 <h2>My Web Dev Portfolio and Blog</h2>
 <p><a href="www.tommythetechie.com"</a>Tommy The Techie</p>
