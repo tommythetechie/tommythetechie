@@ -25,20 +25,19 @@ Here are some ideas to get you started:
 <ul>
   
   <li>https://www.tommychapman.design</li>
-  <li>https://twitter.com/tommythetechie</li>
+  <li>https://bsky.app/profile/tommythetechie.bsky.social</li>
   <li>https://www.linkedin.com/in/tommythetechie/</li>
+  <li>https://www.behance.net/tommythetechie</li>
   
 </ul>
-<h2>My Web Dev Portfolio and Blog</h2>
-<p><a href="www.tommythetechie.com"</a>Tommy The Techie</p>
+<h2>My UX Portfolio</h2>
+<p><a href="www.tommychapman.design"</a>Tommy Chapman</p>
 
 <h2>Languages and Tools That I Use</h2>
 <ul>
-  <li>Photoshop</li>
-  <li>Adobe XD</li>
-  <li>WordPress</li>
-  <li>Bootstrap</li>
-  <li>Figma</li>
+  <li>Photoshop/GIMP</li>
+  <li>Adobe XD/Figma</li>
+  <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
  <ul>
